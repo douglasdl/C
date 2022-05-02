@@ -1,0 +1,7 @@
+Machine 1,10,Type A
+Machine 2,20,Type C
+Machine 3,30,Type A
+Machine 4,40,Type C
+Machine 5,10,Type B
+Machine 6,20,Type B
+Machine 7,30,Type B
